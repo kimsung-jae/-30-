@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace 'com.bubbleladder.binary30v7'
+    namespace 'com.bubbleladder.binary480v72'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.bubbleladder.binary30v7"
+        applicationId "com.bubbleladder.binary480v72"
         minSdk 24
         targetSdk 34
         versionCode 1
-        versionName "7.0-binary30-snapshot"
+        versionName "7.2-binary480-rolling"
     }
 
     compileOptions {

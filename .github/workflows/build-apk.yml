@@ -18,5 +18,5 @@ jobs:
       - run: gradle assembleDebug
       - uses: actions/upload-artifact@v4
         with:
-          name: BubbleBinary30V7-debug-apk
+          name: BubbleBinary480V72-debug-apk
           path: app/build/outputs/apk/debug/app-debug.apk
